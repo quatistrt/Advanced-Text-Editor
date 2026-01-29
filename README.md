@@ -27,7 +27,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 2. **Gerekli kütüphaneleri yükleyin:**
    ```bash
-   pip install customtkinter psutil
+   pip install -r requirements.txt
    ```
    *(Eğer `editor_core` içinde başka bağımlılıklar varsa onları da yüklemeyi unutmayın)*
 
